@@ -21,7 +21,7 @@ url: 'https://ichiidev.github.io'
 
 author: IchiiDev                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://i.discord.fr/4S0.png   # support internet resources
 
 github:
   username: IchiiDev            # change to your github username
